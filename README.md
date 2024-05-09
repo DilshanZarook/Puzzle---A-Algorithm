@@ -10,7 +10,5 @@ This project implements the A* algorithm to find the shortest path through a maz
 
 # output on Vs code console => 
 <img width="463" alt="Screenshot 2024-05-09 at 12 53 24 PM" src="https://github.com/DilshanZarook/Puzzle---A-Algorithm/assets/129732701/4b96b298-34cb-4999-b5b2-c1943b328241">
-
 <img width="449" alt="Screenshot 2024-05-09 at 12 53 48 PM" src="https://github.com/DilshanZarook/Puzzle---A-Algorithm/assets/129732701/e0b785fb-7208-4b57-b746-947839ac0bd5">
-
 <img width="467" alt="Screenshot 2024-05-09 at 12 54 07 PM" src="https://github.com/DilshanZarook/Puzzle---A-Algorithm/assets/129732701/4b588920-fa2e-4aec-9641-a49cfe660f88">
