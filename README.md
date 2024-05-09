@@ -11,5 +11,6 @@ This project implements the A* algorithm to find the shortest path through a maz
 # output on Vs code console => 
 <img width="446" alt="Screenshot 2024-05-09 at 1 02 28 PM" src="https://github.com/DilshanZarook/Puzzle---A-Algorithm/assets/129732701/afe282f5-dab3-4b3c-8b85-de6ab289589e">
 
-footprint of the path finder.
-<img width="160" alt="Screenshot 2024-05-09 at 1 03 01 PM" src="https://github.com/DilshanZarook/Puzzle---A-Algorithm/assets/129732701/b340c168-b750-446f-a1fc-4133291db043">
+<img width="1440" alt="Screenshot 2024-05-09 at 1 04 20 PM" src="https://github.com/DilshanZarook/Puzzle---A-Algorithm/assets/129732701/9ebe2ad1-7e77-403c-8407-48461fc51d23">
+
+![Uploading Screenshot 2024-05-09 at 1.04.40 PM.png…]()
